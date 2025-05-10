@@ -1,10 +1,8 @@
 # 👋 Muito prazer, eu sou o Vinícius Oliveira!
 
-🎓 Estudante do 8º período de Engenharia de Computação na **UEMA**  
 💻 Desenvolvedor Web com foco em **Java, Spring Boot**, **MySQL** e **React.js**  
 📍 Interesse em desenvolvimento backend, sistemas web e infraestrutura de software
 🌍 Inglês nível **intermediário (B1)**  
-
 ---
 
 ## 💼 Experiência
