@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Web com foco em **Java, Spring Boot**, **MySQL** e **React.js**  
 🎓 Estudante do 8º período de Engenharia de Computação na **UEMA**  
-🌍 Inglês nível **intermediário (B1)**  
+🌍 Inglês nível **Intermediário (B1)**  
 📍 Interesse em desenvolvimento backend, sistemas web e infraestrutura de software  
 
 ---
